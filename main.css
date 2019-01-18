@@ -1,0 +1,14 @@
+body {font-style: italic;
+   color: aqua;
+}
+
+label {
+   display: block;
+   padding: 10px;
+   border: 2px gr;
+}
+button {
+color: blue;
+background: forestgreen;
+padding: 5px;
+}
